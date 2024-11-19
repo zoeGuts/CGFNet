@@ -2,8 +2,7 @@
 
 ![alt text](image.png)
 
-This is the implementation of [Global-Group Attention Network With Focal
-Attention Loss for Aerial Scene Classification](https://ieeexplore.ieee.org/document/10356044). 
+This is the implementation of CGFNet ([Global-Group Attention Network With Focal Attention Loss for Aerial Scene Classification](https://ieeexplore.ieee.org/document/10356044)). 
 
 ### Getting Started
 1. Please prepare the dataset for aerial image classification and put it in path " data_root = r'./datasets/' " of file main\.py

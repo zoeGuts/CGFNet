@@ -1,4 +1,4 @@
-## CGFNet
+# CGFNet
 
 ![alt text](image.png)
 

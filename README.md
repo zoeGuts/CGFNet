@@ -1,5 +1,5 @@
 ## CGFNet
-___
+
 ![alt text](image.png)
 
 This is the implementation of [Global-Group Attention Network With Focal
